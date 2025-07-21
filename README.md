@@ -20,6 +20,7 @@
 
 > Black Quote
 
+'''
 #include<stdio.h>
 int main()
 {
@@ -27,3 +28,4 @@ int a,b;
 print("enter value");
 scanf("%d,%d",&a,&b);
 }
+'''
